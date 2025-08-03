@@ -1,0 +1,12 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Ignore docs folder
+docs/
